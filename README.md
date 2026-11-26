@@ -11,7 +11,7 @@ One funny text message from your future self, under 200 characters.
 ## Run it
 
 ```sh
-python3 main.py
+node main.ts
 ```
 
 ---
